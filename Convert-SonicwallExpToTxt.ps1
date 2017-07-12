@@ -28,6 +28,8 @@
 			txt-File
 	#>
 	
+	<# ToDo ConvertTo-HashTable #>
+	
 	param
 	(
 		[Parameter(Mandatory,HelpMessage = 'Add help message for user')]
